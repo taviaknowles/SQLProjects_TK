@@ -3,7 +3,7 @@
 <h2></h2>
  
 <h2>Description</h2>
-The project encompasses a SQL-based interactive experience guiding users through querying. 
+All projects encompasses a SQL-based interactive experience guiding users through querying. 
 <br />
 
 
@@ -31,7 +31,7 @@ The project encompasses a SQL-based interactive experience guiding users through
 - <b>A:SELECT SUM(minutes) FROM todo_list ; </b>
 
 <br/>
-<img src="https://i.imgur.com/kB3Sny2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ynjKwNP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <h2>3. PROJECT: Design a store database </h2>
